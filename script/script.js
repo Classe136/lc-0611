@@ -9,11 +9,7 @@ ASSEGNAZIONE DI FUNZIONI AD UNA VARIABILE
 
 ARROW FUNCTION
 
-*************************************************
 
-OGGETTI PROPRIETA' E METODI
-
-THIS
 
 */
 
